@@ -5,7 +5,7 @@
 
 ## I'm a Developer, Student, Learner!
 
-- 🔭 I’m currently working on a [Django_todo_list][https://django3-todo-list.herokuapp.com/]!
+- 🔭 I’m currently working on a [Django_todo_list][TodoList]!
 - 🌱 I’m currently pursuing M.Sc.Computer Science. 
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
@@ -54,6 +54,7 @@
 <!-- [youtube]: https://youtube.com/singhkunal2050 -->
 [instagram]: https://instagram.com/atharva_cm
 [linkedin]: https://linkedin.com/in/atharva-m-188921108
+[TodoList]: https://django3-todo-list.herokuapp.com/
 
 <br />
 
