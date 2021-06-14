@@ -1,6 +1,6 @@
 ### Hi there, I'm Atharva - aka [AtharvaCM][website] 👋
 
-[![Twitter Follow](https://www.linkedin.com/in/atharva-m-188921108)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Atharva_CM?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAtharva_CM&screen_name=Atharva_CM)
 [![Website](https://img.shields.io/website?label=atharvacm.netlify.app&style=for-the-badge&url=https%3A%2F%2Fatharvacm.netlify.app)](https://atharvacm.netlify.app)
 
 ## I'm a Developer, Student, Learner!
