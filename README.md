@@ -5,7 +5,7 @@
 
 ## I'm a Developer, Student, Learner!
 
-- 🔭 I’m currently working on a [Django_todo_list][TodoList]!
+- 🔭 I’m currently working on a [Django_auction_app][djAuction]!
 - 🌱 I’m currently pursuing M.Sc.Computer Science. 
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
@@ -54,11 +54,11 @@
 <!-- [youtube]: https://youtube.com/singhkunal2050 -->
 [instagram]: https://instagram.com/atharva_cm
 [linkedin]: https://linkedin.com/in/atharva-m-188921108
-[TodoList]: https://django3-todo-list.herokuapp.com/
+[djAuction]: https://djauction.herokuapp.com/
 
 <br />
 
-[![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=AtharvaCM)](https://github.com/anuraghazra/github-readme-stats)
+[![AtharvaCM's github stats](https://github-readme-stats.vercel.app/api?username=AtharvaCM)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
