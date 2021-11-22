@@ -51,7 +51,6 @@
 
 [website]: https://atharvacm.netlify.app
 [twitter]: https://twitter.com/Atharva
-<!-- [youtube]: https://youtube.com/singhkunal2050 -->
 [instagram]: https://instagram.com/atharva_cm
 [linkedin]: https://linkedin.com/in/atharva-m-188921108
 [djAuction]: https://djauction.herokuapp.com/
