@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on a [Django_auction_app][djAuction]!
 - 🌱 I’m currently pursuing M.Sc.Computer Science. 
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 202s Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
+- 🥅 2022s Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
 - ⚡ Fun fact: I love trekking and listening to music.
 
 <!-- ### Spotify Playing 🎧
