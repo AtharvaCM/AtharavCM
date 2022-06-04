@@ -5,7 +5,7 @@
 
 ## I'm a Developer, Student, Learner!
 
-- 🔭 I’m currently working on a [Django_auction_app][djAuction]!
+- 🔭 I’m currently working on a [Sports Live][sportslive]!
 - 🌱 I’m currently pursuing M.Sc.Computer Science. 
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2022s Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
@@ -53,11 +53,11 @@
 [twitter]: https://twitter.com/Atharva
 [instagram]: https://instagram.com/atharva_cm
 [linkedin]: https://linkedin.com/in/atharva-m-188921108
-[djAuction]: https://djauction.herokuapp.com/
+[sportslive]: https://sports-live-bluepineapple-group-6.netlify.app/Home
 
 <br />
 
-[![AtharvaCM's github stats](https://github-readme-stats.vercel.app/api?username=AtharvaCM)](https://github.com/anuraghazra/github-readme-stats)
+[![AtharvaCM's github stats](https://github-readme-stats.vercel.app/api?username=AtharvaCM&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
