@@ -5,7 +5,7 @@
 
 ## I'm a Developer, Student, Learner!
 
-- 🔭 I’m currently working on a [Sports Live][sportslive]!
+- 🔭 I’m currently working on a [Hotel Booking App][hotelGuide]!
 - 🌱 I’m currently pursuing M.Sc.Computer Science. 
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2022s Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
@@ -53,8 +53,7 @@
 [twitter]: https://twitter.com/Atharva
 [instagram]: https://instagram.com/atharva_cm
 [linkedin]: https://linkedin.com/in/atharva-m-188921108
-[sportslive]: https://sports-live-bluepineapple-group-6.netlify.app/Home
-
+[hotelGuide]: https://akatsuki-hotel-booking.netlify.app
 <br />
 
 [![AtharvaCM's github stats](https://github-readme-stats.vercel.app/api?username=AtharvaCM&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
