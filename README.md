@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a [Hotel Booking App][hotelGuide]!
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2022s Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
+- 🥅 2023s Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
 - ⚡ Fun fact: I love trekking and listening to music.
 
 ### Connect with me:
@@ -52,7 +52,6 @@
 [hotelGuide]: https://akatsuki-hotel-booking.netlify.app
 <br />
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/644267efe27257737493d8bf?variant=dark)](https://roadmap.sh)
+
 [![AtharvaCM's github stats](https://github-readme-stats.vercel.app/api?username=AtharvaCM&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
