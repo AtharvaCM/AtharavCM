@@ -5,7 +5,7 @@
 
 ## I'm a Developer, Student, Learner!
 
-- 🔭 I’m currently working on a [Hotel Booking App][hotelGuide]!
+- 🔭 I’m currently working on a [Drive Australia][drive]!
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2023s Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
 - ⚡ Fun fact: I love trekking and listening to music.
@@ -49,7 +49,7 @@
 [twitter]: https://twitter.com/Atharva
 [instagram]: https://instagram.com/atharva_cm
 [linkedin]: https://linkedin.com/in/atharva-m-188921108
-[hotelGuide]: https://akatsuki-hotel-booking.netlify.app
+[drive]: https://drive.com.au
 <br />
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/644267efe27257737493d8bf?variant=dark)](https://roadmap.sh)
