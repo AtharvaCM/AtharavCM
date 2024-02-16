@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Drive Australia][drive]!
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2023s Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
+- 🥅 2024s Goals: Master NestJS and Work more on Personal Side Projects
 - ⚡ Fun fact: I love trekking and listening to music.
 
 ### Connect with me:
